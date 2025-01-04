@@ -1,0 +1,1 @@
+# Delete-a-Windows-Service-Using-CMD-sc-delete-
